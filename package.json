@@ -1,0 +1,27 @@
+{
+  "name": "passport-test",
+  "version": "1.0.0",
+  "description": "Implementing passport authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graveto/passport-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graveto/passport-test/issues"
+  },
+  "homepage": "https://github.com/graveto/passport-test#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.3",
+    "session": "^0.1.0"
+  }
+}
